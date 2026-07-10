@@ -1,7 +1,7 @@
 {
   "name": "sca-vulnerable-demo",
   "version": "1.0.0",
-  "description": "Sample Node.js project with intentionally vulnerable dependencies for SCA testing!!!!!!!!",
+  "description": "Sample Node.js project with intentionally vulnerable dependencies for SCA testing!!!!!!",
   "main": "index.js",
   "private": true,
   "license": "MIT",
